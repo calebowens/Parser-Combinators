@@ -1,0 +1,9 @@
+{
+  "name": "parser-combinators-co",
+  "version": "1.0.0",
+  "description": "Parser Combinators",
+  "main": "out/index.js",
+  "repository": "https://github.com/calebowens/Parser-Combinators",
+  "author": "Caleb Owens <hello@calebowens.com>",
+  "license": "MIT"
+}
