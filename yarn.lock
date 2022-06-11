@@ -47,6 +47,11 @@
   resolved "https://registry.yarnpkg.com/@tsconfig/node16/-/node16-1.0.2.tgz#423c77877d0569db20e1fc80885ac4118314010e"
   integrity sha512-eZxlbI8GZscaGS7kkc/trHTT5xgrjH3/1n2JDwusC9iahPKWMRvRjJSAN5mCXviuTGQ/lHnhvv8Q1YTpnfz9gA==
 
+"@types/node@^17.0.42":
+  version "17.0.42"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.42.tgz#d7e8f22700efc94d125103075c074396b5f41f9b"
+  integrity sha512-Q5BPGyGKcvQgAMbsr7qEGN/kIPN6zZecYYABeTDBizOsau+2NMdSVTar9UQw21A2+JyA2KRNDYaYrPB0Rpk2oQ==
+
 acorn-walk@^8.1.1:
   version "8.2.0"
   resolved "https://registry.yarnpkg.com/acorn-walk/-/acorn-walk-8.2.0.tgz#741210f2e2426454508853a2f44d0ab83b7f69c1"
@@ -187,10 +192,10 @@ mocha-ts@^0.0.0:
   resolved "https://registry.yarnpkg.com/mocha-ts/-/mocha-ts-0.0.0.tgz#27fd543ea468788b89967a4f0d396e5ce8639328"
   integrity sha512-VuwLeX2oFwbO+D62Yq7ZUdFZiQa34OTjR363AagspLhfI5EzXcTF1gjiKfI2UnTLl+oi8ggL9ygGRJfMg8zkDw==
 
-monads-co@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/monads-co/-/monads-co-1.0.1.tgz#ab49fc01b8261316b01a299c69bf000a848987c8"
-  integrity sha512-jjvOzH35SCp5NmeWwVpiWks8MUnBrAjX4OvoeeCPnHWUcwn/0KWV6ZoXZsLvkHQue31Oexgmiaq9k0zCKV9e4w==
+monads-co@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/monads-co/-/monads-co-1.0.3.tgz#c659db8b57d20beb78c0aca0384641f563ccb8f1"
+  integrity sha512-pl7lDCdoC09NgCYUqc5OtKyc7wEelHpbhAe7RHWOR5LpghnsTrtPNheti1wzrNJh8b7s25w2637g0dkZxMMizg==
 
 once@^1.3.0:
   version "1.4.0"
